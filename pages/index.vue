@@ -5,6 +5,7 @@
       <h1 class="title">
         first
       </h1>
+      <nuxt-link to="/test">go</nuxt-link>
       <h2 class="subtitle">
         My striking Nuxt.js project
       </h2>
